@@ -1,8 +1,12 @@
 These are helpful tools that I like to use for software development:
 
+FOR AI / LLM VIBE CODING
+
 https://impeccable.style/#consulting
 
 https://www.react.doctor/
+
+https://github.com/obra/superpowers
 
 
 Articles I like to reference:
