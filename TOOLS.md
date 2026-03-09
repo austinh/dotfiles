@@ -9,6 +9,11 @@ https://www.react.doctor/
 https://github.com/obra/superpowers
 
 
+SKILLS
+ vercel-react-best-practices
+  vercel-composition-patterns
+dev-native-web-components
+
 Articles I like to reference:
 
 https://www.yworks.com/demos/view/webgl-precompilation/
