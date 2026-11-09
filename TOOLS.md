@@ -9,10 +9,97 @@ https://www.react.doctor/
 https://github.com/obra/superpowers
 
 
-SKILLS
- vercel-react-best-practices
-  vercel-composition-patterns
-dev-native-web-components
+## Skills
+
+Non-Airbnb skills installed in `~/.agents/skills`, including synced skills and the linked Superpowers collection.
+
+### General
+
+- `analyzing-scenes`
+- `ask-matt`
+- `built-in-browser`
+- `chief-of-staff`
+- `chrome-browser`
+- `claude-handoff`
+- `code-review`
+- `code-snippet-image`
+- `codebase-design`
+- `computer-use`
+- `context7-mcp`
+- `deep-research`
+- `dev-native-web-components`
+- `diagnosing-bugs`
+- `dimensional-drawing`
+- `docs`
+- `docx`
+- `domain-modeling`
+- `find-skills`
+- `gdrive-connector-guide`
+- `git-guardrails-claude-code`
+- `good-css`
+- `google-workspace`
+- `grill-me`
+- `grill-with-docs`
+- `grilling`
+- `handoff`
+- `impeccable`
+- `implement`
+- `implement-spec`
+- `import-memory`
+- `improve-codebase-architecture`
+- `loop-me`
+- `migrate-to-shoehorn`
+- `morning`
+- `pdf`
+- `pptx`
+- `pr`
+- `prototype`
+- `research`
+- `retro`
+- `scaffold-exercises`
+- `screenwriting-critic`
+- `setup-matt-pocock-skills`
+- `setup-pre-commit`
+- `setup-ts-deep-modules`
+- `skill-creator`
+- `source-command-global-community-fetch-upstream`
+- `source-command-global-community-prompting-feedback`
+- `stageshow`
+- `tdd`
+- `teach`
+- `to-questionnaire`
+- `to-spec`
+- `to-tickets`
+- `triage`
+- `vercel-composition-patterns`
+- `vercel-react-best-practices`
+- `wait-what`
+- `wayfinder`
+- `web-design-guidelines`
+- `wizard`
+- `writing-beats`
+- `writing-for-agents`
+- `writing-fragments`
+- `writing-shape`
+- `xlsx`
+
+### Superpowers
+
+- `superpowers:brainstorming`
+- `superpowers:diagnosing-superpowers`
+- `superpowers:dispatching-parallel-agents`
+- `superpowers:executing-plans`
+- `superpowers:finishing-a-development-branch`
+- `superpowers:receiving-code-review`
+- `superpowers:requesting-code-review`
+- `superpowers:subagent-driven-development`
+- `superpowers:systematic-debugging`
+- `superpowers:test-driven-development`
+- `superpowers:using-git-worktrees`
+- `superpowers:using-superpowers`
+- `superpowers:verification-before-completion`
+- `superpowers:writing-plans`
+- `superpowers:writing-skills`
 
 Articles I like to reference:
 
