@@ -6,100 +6,78 @@ https://impeccable.style/#consulting
 
 https://www.react.doctor/
 
-https://github.com/obra/superpowers
-
-
 ## Skills
 
-Non-Airbnb skills installed in `~/.agents/skills`, including synced skills and the linked Superpowers collection.
+Non-Airbnb skills installed in `~/.agents/skills`, including synced skills. Links point to source repositories; entries without recorded sources are marked.
 
-### General
+- `analyzing-scenes` (source not recorded)
+- [ask-matt](https://github.com/mattpocock/skills)
+- `built-in-browser` (source not recorded)
+- [chief-of-staff](https://github.com/mattpocock/skills)
+- `chrome-browser` (source not recorded)
+- [claude-handoff](https://github.com/mattpocock/skills)
+- [code-review](https://github.com/mattpocock/skills)
+- `code-snippet-image` (source not recorded)
+- [codebase-design](https://github.com/mattpocock/skills)
+- `computer-use` (source not recorded)
+- `context7-mcp` (source not recorded)
+- `deep-research` (source not recorded)
+- `dev-native-web-components` (source not recorded)
+- [diagnosing-bugs](https://github.com/mattpocock/skills)
+- [dimensional-drawing](https://github.com/enesozturk/dimensional-drawing)
+- `docs` (source not recorded)
+- `docx` (source not recorded)
+- [domain-modeling](https://github.com/mattpocock/skills)
+- [find-skills](https://github.com/vercel-labs/skills)
+- `gdrive-connector-guide` (source not recorded)
+- [git-guardrails-claude-code](https://github.com/mattpocock/skills)
+- [good-css](https://github.com/vojtaholik/good-css)
+- `google-workspace` (source not recorded)
+- [grill-me](https://github.com/mattpocock/skills)
+- [grill-with-docs](https://github.com/mattpocock/skills)
+- [grilling](https://github.com/mattpocock/skills)
+- [handoff](https://github.com/mattpocock/skills)
+- [impeccable](https://github.com/pbakaus/impeccable)
+- [implement](https://github.com/mattpocock/skills)
+- [implement-spec](https://github.com/mattpocock/skills)
+- `import-memory` (source not recorded)
+- [improve-codebase-architecture](https://github.com/mattpocock/skills)
+- [loop-me](https://github.com/mattpocock/skills)
+- [migrate-to-shoehorn](https://github.com/mattpocock/skills)
+- `morning` (source not recorded)
+- `pdf` (source not recorded)
+- `pptx` (source not recorded)
+- [pr](https://github.com/mattpocock/skills)
+- [prototype](https://github.com/mattpocock/skills)
+- [research](https://github.com/mattpocock/skills)
+- [retro](https://github.com/mattpocock/skills)
+- [scaffold-exercises](https://github.com/mattpocock/skills)
+- `screenwriting-critic` (source not recorded)
+- [setup-matt-pocock-skills](https://github.com/mattpocock/skills)
+- [setup-pre-commit](https://github.com/mattpocock/skills)
+- [setup-ts-deep-modules](https://github.com/mattpocock/skills)
+- `skill-creator` (source not recorded)
+- `source-command-global-community-fetch-upstream` (source not recorded)
+- `source-command-global-community-prompting-feedback` (source not recorded)
+- [stageshow](https://github.com/benjitaylor/skills)
+- [tdd](https://github.com/mattpocock/skills)
+- [teach](https://github.com/mattpocock/skills)
+- [to-questionnaire](https://github.com/mattpocock/skills)
+- [to-spec](https://github.com/mattpocock/skills)
+- [to-tickets](https://github.com/mattpocock/skills)
+- [triage](https://github.com/mattpocock/skills)
+- [vercel-composition-patterns](https://github.com/vercel-labs/agent-skills)
+- [vercel-react-best-practices](https://github.com/vercel-labs/agent-skills)
+- [wait-what](https://github.com/mattpocock/skills)
+- [wayfinder](https://github.com/mattpocock/skills)
+- [web-design-guidelines](https://github.com/vercel-labs/agent-skills)
+- [wizard](https://github.com/mattpocock/skills)
+- [writing-beats](https://github.com/mattpocock/skills)
+- [writing-for-agents](https://github.com/mattpocock/skills)
+- [writing-fragments](https://github.com/mattpocock/skills)
+- [writing-shape](https://github.com/mattpocock/skills)
+- `xlsx` (source not recorded)
 
-- `analyzing-scenes`
-- `ask-matt`
-- `built-in-browser`
-- `chief-of-staff`
-- `chrome-browser`
-- `claude-handoff`
-- `code-review`
-- `code-snippet-image`
-- `codebase-design`
-- `computer-use`
-- `context7-mcp`
-- `deep-research`
-- `dev-native-web-components`
-- `diagnosing-bugs`
-- `dimensional-drawing`
-- `docs`
-- `docx`
-- `domain-modeling`
-- `find-skills`
-- `gdrive-connector-guide`
-- `git-guardrails-claude-code`
-- `good-css`
-- `google-workspace`
-- `grill-me`
-- `grill-with-docs`
-- `grilling`
-- `handoff`
-- `impeccable`
-- `implement`
-- `implement-spec`
-- `import-memory`
-- `improve-codebase-architecture`
-- `loop-me`
-- `migrate-to-shoehorn`
-- `morning`
-- `pdf`
-- `pptx`
-- `pr`
-- `prototype`
-- `research`
-- `retro`
-- `scaffold-exercises`
-- `screenwriting-critic`
-- `setup-matt-pocock-skills`
-- `setup-pre-commit`
-- `setup-ts-deep-modules`
-- `skill-creator`
-- `source-command-global-community-fetch-upstream`
-- `source-command-global-community-prompting-feedback`
-- `stageshow`
-- `tdd`
-- `teach`
-- `to-questionnaire`
-- `to-spec`
-- `to-tickets`
-- `triage`
-- `vercel-composition-patterns`
-- `vercel-react-best-practices`
-- `wait-what`
-- `wayfinder`
-- `web-design-guidelines`
-- `wizard`
-- `writing-beats`
-- `writing-for-agents`
-- `writing-fragments`
-- `writing-shape`
-- `xlsx`
-
-### Superpowers
-
-- `superpowers:brainstorming`
-- `superpowers:diagnosing-superpowers`
-- `superpowers:dispatching-parallel-agents`
-- `superpowers:executing-plans`
-- `superpowers:finishing-a-development-branch`
-- `superpowers:receiving-code-review`
-- `superpowers:requesting-code-review`
-- `superpowers:subagent-driven-development`
-- `superpowers:systematic-debugging`
-- `superpowers:test-driven-development`
-- `superpowers:using-git-worktrees`
-- `superpowers:using-superpowers`
-- `superpowers:verification-before-completion`
-- `superpowers:writing-plans`
-- `superpowers:writing-skills`
 
 Articles I like to reference:
 
